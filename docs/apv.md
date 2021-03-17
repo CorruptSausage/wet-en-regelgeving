@@ -287,7 +287,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 1. Het is nadat iemand van het leven beroofd is door een rivaliserende groep, gedurende 24 uur niet toegestaan mee te doen aan eventuele wraakacties tegen deze groep.
 2. Indien de regel zoals beschreven in lid 1 overtreden wordt zal dit bestraft worden met een straf volgens de 1e categorie.
 
-### Artikel 32 - Crimineel gedrag jegens ambulancemedewerkers en andere overheidsmedewerkers
+### Artikel 32 - Crimineel gedrag tegen ambulancemedewerkers en andere overheidsmedewerkers
 
 1. Het is ten strengste verboden om een ambulancemedewerker te ontvoeren, te gijzelen, te beledigen of niet mee te werken met de roleplay van een ambulancier.
 2. Het is niet toegestaan een melding te maken naar een overheids instantie met de intentie om degene die hierop reageert te vermoorden en/of te ontvoeren.
